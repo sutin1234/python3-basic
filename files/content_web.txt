@@ -1,0 +1,1695 @@
+<!doctype html><html
+lang="en-US" dir="ltr"><head><meta
+http-equiv="Content-Type" content="text/html; charset=utf-8"><meta
+http-equiv="X-UA-Compatible" content="IE=Edge"><meta
+name="google" content="notranslate"><meta
+name="language" content="en_US"><meta
+name="robots" content="NOODP"><meta
+name="msnbot" content="NOODP"><meta
+name="googlebot" content="NOODP"><meta
+name="author" content=""><meta
+name="keywords" content=""><title>Spend your luxurious island getaway in an exclusive pocket of Samui</title><meta
+name='description' content='Explore a hidden gem of Samui. Stay at the InterContinental Samui Baan Taling Ngam Resort and experience the ultimate retreat in luxurious surroundings. Discover why it’s the winner of the Luxury Island Resort for Asia.'/><meta
+name='keywords' content='luxurious accommodation at intercontinental samui taling ngam resort, koh samui resort, rooms, suites, villas, baan thai spa, luxury hotels, beach front hotels, pool villas, koh samui, thailand'/><meta
+name='author' content=''/><meta
+name='og:title' content='Spend your luxurious island getaway in an exclusive pocket of Samui'/><meta
+name='og:description' content='Explore a hidden gem of Samui. Stay at the InterContinental Samui Baan Taling Ngam Resort and experience the ultimate retreat in luxurious surroundings. Discover why it’s the winner of the Luxury Island Resort for Asia.'/><meta
+property='og:image' content='http://samui.staging.quo-digital.com/uploads/samui/destination/intro-02.jpg'/><meta
+name='og:url' content='homepage'/><meta
+name='twitter:title' content='Spend your luxurious island getaway in an exclusive pocket of Samui'/><meta
+property='twitter:image' content='http://samui.staging.quo-digital.com/uploads/samui/destination/intro-02.jpg'/><meta
+name='twitter:description' content='Explore a hidden gem of Samui. Stay at the InterContinental Samui Baan Taling Ngam Resort and experience the ultimate retreat in luxurious surroundings. Discover why it’s the winner of the Luxury Island Resort for Asia.'/><link
+rel="canonical" href="homepage"/><meta
+name="viewport"
+content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=no"><meta
+name="HandheldFriendly" content="true"><meta
+name="csrf-token" content="WLQzqd19VeZ1lCaYja3xLTqnqHAzfi0aHXXmpvw0"><meta
+property="og:type" content="website"><meta
+name="twitter:card" content="summary_large_image"><meta
+name="apple-mobile-web-app-capable" content="yes"><meta
+name="format-detection" content="telephone=no"><link
+rel="apple-touch-icon" sizes="180x180"
+href="http://samui.staging.quo-digital.com/templates/samui/assets/favicons/apple-touch-icon.png"><link
+rel="shortcut icon" type="image/x-icon" sizes="16x16" href="/favicon.ico"><link
+rel="icon" type="image/png" sizes="32x32"
+href="http://samui.staging.quo-digital.com/templates/samui/assets/favicons/favicon-32x32.png"><link
+rel="icon" type="image/png" sizes="16x16"
+href="http://samui.staging.quo-digital.com/templates/samui/assets/favicons//favicon-16x16.png"><link
+rel="manifest" href="http://samui.staging.quo-digital.com/templates/samui/assets/favicons/site.webmanifest"><link
+rel="mask-icon" href="http://samui.staging.quo-digital.com/templates/samui/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"><meta
+name="msapplication-config" content="http://samui.staging.quo-digital.com/templates/samui/images/favicons/browserconfig.xml" /><meta
+name="msapplication-TileColor" content="#ffffff"><meta
+name="theme-color" content="#ffffff"><link
+rel="alternate" href="http://samui.staging.quo-digital.com/" hreflang="x-default" /><link
+rel="alternate" href="http://samui.staging.quo-digital.com/en/" hreflang="en" /><link
+rel="alternate" href="http://samui.staging.quo-digital.com/zh/" hreflang="chinese" /><link
+rel="alternate" href="http://samui.staging.quo-digital.com/ja/" hreflang="japanes" /><link
+rel="alternate" href="http://samui.staging.quo-digital.com/ab/" hreflang="en" /><link
+rel="dns-prefetch" href="https://mc.yandex.ru" crossorigin><link
+rel="dns-prefetch" href="https://connect.facebook.net" crossorigin><link
+rel="dns-prefetch" href="https://www.googletagmanager.com" crossorigin><link
+rel="dns-prefetch" href="https://www.google-analytics.com" crossorigin><link
+rel="dns-prefetch" href="https://adservice.google.com" crossorigin><link
+rel="dns-prefetch" href="https://googleads.g.doubleclick.net" crossorigin><link
+rel="dns-prefetch" href="https://mylivechat.com" crossorigin>s<link
+rel="dns-prefetch" href="https://www.facebook.com" crossorigin><link
+rel="dns-prefetch" href="https://api.instagram.com" crossorigin><link
+rel="dns-prefetch" href="https://cdn.plyr.io" crossorigin><link
+rel="dns-prefetch" href="https://www.google.co.th" crossorigin><link
+rel="dns-prefetch" href="https://bid.g.doubleclick.net" crossorigin><link
+rel="dns-prefetch" href="https://s2.mylivechat.com" crossorigin><link
+rel="dns-prefetch" href="https://www.youtube.com" crossorigin><link
+rel="dns-prefetch" href="https://api.instagram.com" crossorigin><link
+rel="dns-prefetch" href="https://www.googleadservices.com" crossorigin><link
+rel="dns-prefetch" href="https://js-agent.newrelic.com" crossorigin><link
+rel="preload" as="font" href="http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.woff2" type="font/woff2"
+crossorigin="anonymous"><link
+rel="preload" as="font" href="http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/iconmoon.ttf" type="font/truetype"
+crossorigin="anonymous"><link
+rel="preload" href="https://cdn.plyr.io/2.0.16/plyr.svg" as="image" type="image/svg+xml" crossorigin><link
+rel="preload" as="style" href="http://samui.staging.quo-digital.com/templates/samui/css/critical.blade.css"
+onload="this.onload=null;this.rel='stylesheet'" /><link
+rel="preload" as="style" href="http://samui.staging.quo-digital.com/templates/samui/css/app.css"
+onload="this.onload=null;this.rel='stylesheet'" /><noscript
+class="deferred-styles"><link
+rel="stylesheet" href="http://samui.staging.quo-digital.com/templates/samui/css/critical.blade.css" />
+</noscript>
+<noscript
+class="deferred-styles"><link
+rel="stylesheet" href="http://samui.staging.quo-digital.com/templates/samui/css/app.css" />
+</noscript> <script></script> <style type="text/css">@font-face{font-family:'Baskerville';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.eot');src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.eot?#iefix') format('embedded-opentype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.woff2') format('woff2'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.woff') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.ttf') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville.svg#Baskerville') format('svg');font-weight:normal;font-style:normal;font-display:fallback}@font-face{font-family:'Baskerville-italic';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.eot');src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.eot?#iefix') format('embedded-opentype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.woff2') format('woff2'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.woff') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.ttf') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/libre-baskerville/Baskerville-Italic.svg#Baskerville-Italic') format('svg');font-weight:normal;font-style:normal;font-display:fallback}@font-face{font-family:'Avenir';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Roman.eot?#iefix') format('embedded-opentype'), url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Roman.woff2') format('woff2'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Roman.woff') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Roman.ttf') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Roman.svg#Avenir-Roman') format('svg');font-weight:500;font-style:normal;font-display:fallback}@font-face{font-family:'Avenir Medium';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Medium.eot?#iefix') format('embedded-opentype'), url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Medium.woff2') format('woff2'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Medium.woff') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Medium.ttf') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Medium.svg#Avenir-Medium') format('svg');font-weight:500;font-style:normal;font-display:fallback}@font-face{font-family:'Avenir Light';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Light.eot?#iefix') format('embedded-opentype'), url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Light.woff2') format('woff2'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Light.woff') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Light.ttf') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/avenir/Avenir-Light.svg#Avenir-Light') format('svg');font-weight:300;font-style:normal;font-display:fallback}@font-face{font-family:'icomoon';src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/icomoon.eot?l56fkk');src:url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/icomoon.eot?l56fkk#iefix') format('embedded-opentype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/icomoon.ttf?l56fkk') format('truetype'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/icomoon.woff?l56fkk') format('woff'),
+url('http://samui.staging.quo-digital.com/templates/samui/assets/fonts/icomoon/icomoon.svg?l56fkk#icomoon') format('svg');font-weight:normal;font-style:normal;font-display:fallback}body,html{margin:0;padding:0;background-color:#a0895d}body{pointer-events:none}body.is-loaded{background-color:#fff;pointer-events:all}html:not(.ie) body.is-loading{position:fixed;overflow:hidden;top:0;left:0;width:100%}html.no-touchevents:not(.ie){overflow:hidden;height:100%}html.no-touchevents:not(.ie) body{overflow:hidden;height:100%}body[data-page="homepage"]{background-color:#a0895d}body[data-page="homepage"].is-loaded{background-color:#fff}[data-page="homepage"] .site-header .menu-toggle, [data-page="homepage"] .site-header .menu-top{opacity:0;visibility:hidden}.global-container{opacity:0;visibility:hidden}html:not(.ie) .global-container{overflow:hidden;position:fixed;top:0}.loader{position:fixed;overflow:hidden;top:0;bottom:0;right:0;left:0;z-index:16777271;display:none;font-size:0;line-height:0}.loader>.bg{position:absolute;overflow:hidden;top:0;bottom:0;right:100%;width:100%;height:100%;background:#a0895d}.loader>.brand-logo{position:absolute;overflow:hidden;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}.hero-section.homepage-hero .intro-loader{position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;display:block;z-index:1;background:#a0895d;pointer-events:none;-webkit-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-moz-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-ms-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-o-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1)}html:not(.ie) .hero-section.homepage-hero{-webkit-transform:scale(1.1);-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1);transition-delay: .3s;-webkit-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-moz-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-ms-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);-o-transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1);transition:transform 1s cubic-bezier(0.65, 0.01, 0.45, 1)}.hero-section.homepage-hero
+.title{bottom:15%;transition:bottom 1s cubic-bezier(0.65, 0.01, 0.45, 1)}html:not(.ie) .hero-section.homepage-hero.is-loaded{-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);-o-transform:scale(1);transform:scale(1)}.hero-section.homepage-hero.is-loaded
+.title{bottom:6%}.hero-section.homepage-hero.is-loaded .intro-loader{-webkit-transform:translateY(100%);-moz-transform:translateY(100%);-ms-transform:translateY(100%);-o-transform:translateY(100%);transform:translateY(100%)}</style> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N3FSZ65');</script>  <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-28752666-1','auto');ga('send','pageview');</script>  <script type="text/javascript">var google_conversion_id=988359087;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script> <script async type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script> <noscript><div
+style="display:inline;">
+<img
+height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988359087/?value=0&guid=ON&script=0"/></div> <script type="text/javascript">var google_conversion_id=978092974;var google_conversion_language="en";var google_conversion_format="3";var google_conversion_color="ffffff";var google_conversion_label="jpcbCKLoqwkQroey0gM";var google_conversion_value=1.00;var google_conversion_currency="THB";var google_remarketing_only=false;</script> <script async type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script> <noscript><div
+style="display:inline;">
+<img
+height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/978092974/?value=1.00¤cy_code=THB&label=jpcbCKLoqwkQroey0gM&guid=ON&script=0"/></div>
+</noscript> <script type="text/javascript">(function(d,w,c){(w[c]=w[c]||[]).push(function(){try{w.yaCounter41197709=new Ya.Metrika({id:41197709,clickmap:true,trackLinks:true,accurateTrackBounce:true});}catch(e){}});var n=d.getElementsByTagName("script")[0],s=d.createElement("script"),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.src="https://mc.yandex.ru/metrika/watch.js";if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(document,window,"yandex_metrika_callbacks");</script> <noscript><div><img
+src="https://mc.yandex.ru/watch/41197709" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','514720888655760');fbq('track','PageView');</script> <noscript><img
+height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=514720888655760&ev=PageView&noscript=1"
+/></noscript></head><body
+data-page="homepage"><div
+class="global-container"><div
+class="site-cookies"><div
+class="content">
+This website uses cookies to ensure you get the best experience on our website.</div><div
+class="button">
+<a
+href="#" class="more text-uppercase close-cookie"><span>Deny</span></a>
+<a
+href="#" class="btn btn-primary confirm-cookie">Okay</a></div></div>        <header
+class="site-header  full-header" ><div
+class="header-outer"><div
+class="header-inner"><div
+class="header-wrapper"><div
+class="menu-toggle" data-menu-toggle>
+<span></span>
+<span></span>
+<span></span></div><div
+class="brand-logo">
+<a
+href="/homepage"
+target=_self
+class="ic-logo">
+<img
+src="http://samui.staging.quo-digital.com/uploads/samui/brand-logo.png" alt="InterContinental Samui">
+</a>
+<a
+href="/homepage"
+target=_self
+class="ic-icon">
+<img
+src="http://samui.staging.quo-digital.com/uploads/samui/brand-icon.png" alt="InterContinental Samui">
+</a></div><div
+class="menu-top"><div
+class="menu-top-item" data-menu-type="language"><div
+class="language-title">
+<a
+href="#" data-language-toggle><span
+class="flag flag-en"></span></a></div><div
+class="language-menu-wrapper"><ul
+class="language-menu"><li><a
+href="/homepage"
+data-code="en"><span
+class="flag flag-en"></span></a></li><li><a
+href="/zh/homepage"
+data-code="zh"><span
+class="flag flag-zh"></span></a></li><li><a
+href="/ja/homepage"
+data-code="ja"><span
+class="flag flag-ja"></span></a></li><li><a
+href="/ab/homepage"
+data-code="ab"><span
+class="flag flag-ab"></span></a></li></ul></div></div><div
+class="menu-top-item" data-menu-type="booking">
+<input
+id="regionCode_booking" type="hidden" value="925"/>
+<input
+id="currentLanguage_code" type="hidden" value="en"/>
+<a
+href="#" class="btn btn-primary" data-booking-toggle>
+<span
+class="is-desktop">Book your stay</span>
+<span
+class="is-mobile">Book</span>
+</a><div
+class="booking-wrapper no_opacity has_transition_1000"><div
+class="booking-content-outer hidden has_transition_1000"><div
+id="booking_background"></div><div
+class="close">
+<span></span>
+<span></span></div><div
+class="booking-panel-background"></div><div
+class="booking-content-inner"><div
+class="title"><h5 class="booking-heading-line"><span>Book your stay</span></h5></div><form
+id="booking-form" class="booking-form validate" autocomplete="off" enctype="multipart/form-data" novalidate data-form-inline>
+<input
+id="header_booking_url" type="hidden" value="https://www.intercontinental.com/redirect?path=rates&amp;brandCode=ic&amp;localeCode=#localeCode#&amp;regionCode=#regionCode#&amp;hotelCode=usmks&amp;_PMID=99502222&amp;checkInDate=#checkInDate#&amp;checkInMonthYear=#checkInMonth##checkInYear#&amp;checkOutDate=#checkOutDate#&amp;checkOutMonthYear=#checkOutMonth##checkOutYear#&amp;numberOfAdults=#adult#&amp;numberOfChildren=#children#&amp;numberOfRooms=#room#&amp;viewfullsite=true"><div
+class="form-group animate-form">
+<label
+for="booking_checkin">Check In</label><div
+class="form-input form-container"><div
+class="date-wrapper"><div
+class="input-wrapper">
+<i
+class="icon-calendar"></i>
+<input
+type="text" id="booking_checkin" name="booking_checkin" class="form-control js-date-checkin" required></div></div></div></div><div
+class="form-group animate-form">
+<label
+for="booking_checkout">Check Out</label><div
+class="form-input form-container"><div
+class="date-wrapper"><div
+class="input-wrapper">
+<i
+class="icon-calendar"></i>
+<input
+type="text" id="booking_checkout" name="booking_checkout" class="form-control js-date-checkout" data-minimum-date="1" required></div></div></div></div><div
+class="form-group animate-form" data-column="3">
+<label
+for="booking_room">Rooms</label><div
+class="form-input form-container"><div
+class="select-wrapper">
+<select
+name="booking_room" id="booking_room" class="form-control" required><option
+selected  value="1">1</option><option
+value="2">2</option><option
+value="3">3</option><option
+value="4">4</option><option
+value="5">5</option><option
+value="6">6</option><option
+value="7">7</option><option
+value="8">8</option><option
+value="9">9</option><option
+value="10">10</option>
+</select></div></div></div><div
+class="form-group animate-form" data-column="3">
+<label
+for="booking_adult">Adult</label><div
+class="form-input form-container"><div
+class="select-wrapper">
+<select
+name="booking_adult" id="booking_adult" class="form-control" required><option
+value="1">1</option><option
+selected  value="2">2</option><option
+value="3">3</option><option
+value="4">4</option><option
+value="5">5</option><option
+value="6">6</option><option
+value="7">7</option><option
+value="8">8</option><option
+value="9">9</option><option
+value="10">10</option>
+</select></div></div></div><div
+class="form-group animate-form" data-column="3">
+<label
+for="booking_children">Children</label><div
+class="form-input form-container"><div
+class="select-wrapper">
+<select
+name="booking_children" id="booking_children" class="form-control" required><option
+value="0">0</option><option
+value="1">1</option><option
+value="2">2</option><option
+value="3">3</option><option
+value="4">4</option><option
+value="5">5</option><option
+value="6">6</option><option
+value="7">7</option><option
+value="8">8</option><option
+value="9">9</option><option
+value="10">10</option>
+</select></div></div></div><div
+class="form-group">
+<button
+type="submit" id="btn-reservation" class="btn more btn-submit btn-booking"><span>Book Now</span></button></div></form></div></div></div></div></div></div></div></div>
+</header>
+<nav
+class="site-nav"><div
+id="nav_background" class="overlay-background has_transition_1000 transform_all no_opacity"></div><div
+class="nav-panel hidden has_transition_1000"><div
+class="nav-panel-background"></div><div
+class="nav-close" data-menu-close>
+<span></span>
+<span></span></div><div
+class="header-widget"><div
+class="menu-top-item" data-menu-type="language"><div
+class="language-title">
+<a
+href="#" data-language-toggle><span
+class="flag flag-en"></span></a></div><div
+class="language-menu-wrapper"><ul
+class="language-menu"><li><a
+href="/homepage"
+data-code="en"><span
+class="flag flag-en"></span></a></li><li><a
+href="/zh/homepage"
+data-code="zh"><span
+class="flag flag-zh"></span></a></li><li><a
+href="/ja/homepage"
+data-code="ja"><span
+class="flag flag-ja"></span></a></li><li><a
+href="/ab/homepage"
+data-code="ab"><span
+class="flag flag-ab"></span></a></li></ul></div></div><div
+class="club-ic">
+<a
+href="/club-intercontinental"
+target=_self
+class="image">
+<img
+src="http://samui.staging.quo-digital.com/uploads/samui/club-intercontinental.png " alt="" class="js-lazyload">
+</a></div></div><div
+class="nav-panel-outer va-outer"><div
+class="va-inner"><div
+class="nav-panel-container"><div
+class="social"><ul><li>
+<a
+href="https://www.facebook.com/IntercontinentalSamui"
+title="Facebook"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-facebook"></i></a></li><li>
+<a
+href="https://twitter.com/InterConSamui"
+title="Twitter"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-twitter"></i></a></li><li>
+<a
+href="https://instagram.com/intercontinentalsamui"
+title="Instagram"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-instagram"></i></a></li><li>
+<a
+href="https://youtube.com/ICsamui"
+title="Youtube"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-youtube"></i></a></li><li>
+<a
+href="https://www.linkedin.com/company/intercontinental-samui-baan-taling-ngam-resort"
+title="Linkedin"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-linkedin"></i></a></li><li>
+<a
+href="https://bit.ly/2wRZOJB"
+title="Pinterest"
+target=_self
+rel="noopener noreferrer">
+<i
+class="icon-pinterest"></i></a></li></ul></div><div
+class="nav-panel-inner"><div
+class="nav-panel-item" data-panel-type="main"><div
+class="main-menu"><ul><li><a
+href="/destination"
+target=_self
+>
+Destination</a></li><li><a
+href="/experiences"
+target=_self
+>
+Experiences</a></li><li><a
+href="/accommodation"
+target=_self
+>
+Accommodation</a></li><li><a
+href="/dining"
+target=_self
+>
+Dining</a></li><li><a
+href="/spa"
+target=_self
+>
+Spa &amp; Wellness</a></li><li><a
+href="/weddings-events"
+target=_self
+>
+Weddings &amp; Events</a></li><li><a
+href="/recreation"
+target=_self
+>
+Recreation</a></li><li><a
+href="/special-offer"
+target=_self
+>
+Special offers</a></li><li><a
+href="/gallery"
+target=_self
+>
+Gallery</a></li></ul></div></div><div
+class="nav-panel-item" data-panel-type="secondary"><div
+class="secondary-menu"><ul><li><a
+href="/homepage"
+target=_self
+>
+Home</a></li><li><a
+href="/about"
+target=_self
+>
+About</a></li><li><a
+href="https://escapetokohsamui.com"
+target=_blank
+>
+Blog</a></li><li><a
+href="/press-centre"
+target=_self
+>
+Press Centre</a></li><li><a
+href="/download"
+target=_self
+>
+Download</a></li><li><a
+href="/contact"
+target=_self
+>
+Contact</a></li></ul></div><div
+class="reservation-info"><h5></h5><div
+class="address-links"><p>Reservation<br
+/>T. +66 (0) 2 656 0440<br
+/>E. icsamui.rsvn@ihg.com<br
+/><br
+/>Resort &amp; Concierge<br
+/>T. +66 (0) 77 429 100<br
+/>E. Concierge@ickohsamui.com</p><p>&nbsp;</p><p>&nbsp;</p></div></div><div
+class="social"><ul><li>
+<a
+href="https://www.facebook.com/IntercontinentalSamui"
+title="Facebook"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-facebook"></i></a></li><li>
+<a
+href="https://twitter.com/InterConSamui"
+title="Twitter"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-twitter"></i></a></li><li>
+<a
+href="https://instagram.com/intercontinentalsamui"
+title="Instagram"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-instagram"></i></a></li><li>
+<a
+href="https://youtube.com/ICsamui"
+title="Youtube"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-youtube"></i></a></li><li>
+<a
+href="https://www.linkedin.com/company/intercontinental-samui-baan-taling-ngam-resort"
+title="Linkedin"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-linkedin"></i></a></li><li>
+<a
+href="https://bit.ly/2wRZOJB"
+title="Pinterest"
+target=_self
+rel="noopener noreferrer">
+<i
+class="icon-pinterest"></i></a></li></ul></div></div></div></div></div></div></div>
+</nav><div
+class="page-container" data-scrollbar><div
+class="wrap">
+<main
+class="main" role="main">
+<section
+class="section hero-section  homepage-hero  "><div
+class="intro-loader"></div><div
+class="title"><h3 class="hidden"></h3></div><div
+class="figure ratio-hero" data-video><div
+class="figure-outer"><div
+class="figure-image cover">
+<img
+data-src="/"
+alt="" class="js-imageload"><div
+class="video--container"><div
+class="placeholder" data-muted="0" data-video-link="http://samui.staging.quo-digital.com/uploads/samui/VDO/ResortFamily-WebOptimised.mp4" data-poster="/"></div></div></div></div></div></section>                                                                <section
+class="section intro-section"><div
+class="section-title text-center text-gold js-parallax"><h2 class="title-large">Secluded Luxury</h2></div><div
+class="intro-layout js-parallax"><div
+class="intro-image"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-introduction"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/homepage/1200x905/InterContinental-Samui_Private-Pier.jpg"
+alt="InterContinental® Samui Baan Taling Ngam Resort"
+class="as__background"></div></div></div></div></div></div></div><div
+class="intro-content"><div
+class="content-outer"><div
+class="content-inner"><h5 class="sub-title"></h5><div
+class="content"><p>Visit this once-in-a-life-time beachfront&nbsp;destination in an exclusive sanctuary of just 79 rooms, suites and villas overlooking the Gulf of Thailand.&nbsp; Spend your&nbsp;island getaway&nbsp;surrounded by lush gardens, lazing by incredible infinity pools and watching spectacular sunsets.&nbsp;Experience <em>One of 1000 Places to Visit in Your Lifetime</em> in the secluded enclave of Taling Ngam Bay.&nbsp;</p></div></div></div></div></div>
+</section>
+<section
+class="section overview-slides-with-tabs-section js-tabs js-parallax"><div
+class="section-outer"><div
+class="section-inner"><div
+class="tab-list" data-center="false"><ul><li
+class="item is--current"><a
+href="#"
+data-group="club_collection"
+data-tab-id="club_collection">
+Club Collection</a></li><li
+class="item"><a
+href="#"
+data-group="villa"
+data-tab-id="villa">
+VILLA</a></li><li
+class="item"><a
+href="#"
+data-group="suites"
+data-tab-id="suites">
+SUITE</a></li><li
+class="item"><a
+href="#"
+data-group=""
+data-tab-id="">
+</a></li><li
+class="item"><a
+href="#"
+data-group=""
+data-tab-id="">
+</a></li></ul></div><div
+class="tabs-wrapper"><div
+class="overview-slides-box has_transition_1000_inout is--current "
+data-target-id="club_collection"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/homepage/1045x765/_DSC6865B.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">CLUB COLLECTION</h4><p>Upgrade to Club InterContinental and add an extra layer of seclusion and exclusivity to your stay from the moment you arrive. Experience superior service in luxury surroundings with first-class benefits for a truly memorable stay in Taling Ngam Bay, Koh Samui.</p><div
+class="link-block">
+<a
+href="/club-intercontinental"
+class="more text-uppercase
+link-homepage-to-club-intercontinental"
+id="link-homepage-to-club-intercontinental">
+<span>More details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="villa"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/accommodation/1045x765/IMG_1322.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">VILLA</h4><p>Stay in stylish villas with spacious balconies surrounded by tropical gardens and stunning ocean vistas in this sleepy and secluded enclave. Spend quality time with family and friends in a hidden gem along Samui&rsquo;s unspoiled coastline, away from it all.</p><div
+class="link-block">
+<a
+href="/accommodation"
+class="more text-uppercase
+link-homepage-to-accommodation"
+id="link-homepage-to-accommodation">
+<span>More details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="suites"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/accommodation/1045x765/_DSC6803.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">SUITE</h4><p>Wake up in paradise every morning in your luxurious tropical island suite where modern comfort meets traditional Thai design. Stay in a bucket-list destination and leave the world behind as you enjoy this remarkable and special retreat in Samui.</p><div
+class="link-block">
+<a
+href="/accommodation"
+class="more text-uppercase
+link-homepage-to-accommodation"
+id="link-homepage-to-accommodation">
+<span>More details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id=""><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/accommodation/1045x765/usmks-intercontinental-panoramic-oceanview-room.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Club Ocean View Room</h4><p>Stylish accommodation with spacious balconies and sea vistas overlooking landscaped tropical gardens and coconut plantations.&nbsp;</p><div
+class="link-block">
+<a
+href="/club-ocean-view-room"
+class="more text-uppercase
+link-homepage-to-club-ocean-view-room"
+id="link-homepage-to-club-ocean-view-room">
+<span>More Details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id=""><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/accommodation/1045x765/IC-Samui-Baan-Taling-Ngam-Premier-Ocean-View-Rooms-2.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">RESORT CLASSIC ROOM</h4><p>Relax in spacious rooms with peaceful outdoor patios and tropical views framed by coconut trees in a truly special and serene destination in Samui.</p></div></div></div></div></div>
+</section>
+<section
+class="section overview-slides-with-tabs-section js-tabs js-parallax"><div
+class="section-outer"><div
+class="section-inner"><div
+class="tab-list" data-center="true"><ul><li
+class="item is--current"><a
+href="#"
+data-group="restaurants_bars"
+data-tab-id="restaurants_bars">
+Restaurants &amp; Bars</a></li><li
+class="item"><a
+href="#"
+data-group="special_dining"
+data-tab-id="special_dining">
+Themed Dining</a></li><li
+class="item"><a
+href="#"
+data-group="private_dining"
+data-tab-id="private_dining">
+Private Dining</a></li><li
+class="item"><a
+href="#"
+data-group="master_classes"
+data-tab-id="master_classes">
+Master Classes</a></li><li
+class="item"><a
+href="#"
+data-group="seasonal_celebrations"
+data-tab-id="seasonal_celebrations">
+Seasonal Celebrations</a></li><li
+class="item"><a
+href="#"
+data-group="picnic_in_style"
+data-tab-id="picnic_in_style">
+Picnic in Style</a></li></ul></div><div
+class="tabs-wrapper"><div
+class="overview-slides-box has_transition_1000_inout is--current "
+data-target-id="restaurants_bars"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/02_Restaurants___Bars/Air_Bar/InterContinental-Samui_Air-Bar%281%29.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Restaurants &amp; Bars</h4><p>Our restaurants and bars are served with the most incredible ocean views. Watch the papaya and ros&eacute; sunset as you indulge in beachfront seafood BBQs, authentic Thai food and themed buffets with elevated ocean views, coupled with masterfully mixed cocktails.</p><div
+class="link-block">
+<a
+href="/restaurants-and-bars"
+class="more text-uppercase
+link-homepage-to-restaurants-and-bars"
+id="link-homepage-to-restaurants-and-bars">
+<span>More Details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="special_dining"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/THEMED_DINNING/DSC00246_i.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Themed Dining</h4><p>Take your taste buds on a culinary adventure. Sample a different cuisine each night of your stay. Savour authentic flavors with contemporary twists. Enjoy themed buffet nights hosted at our elegant Amber restaurant perched high on the cliff in paradise&nbsp;or rustic beachfront setting at Flames.</p><div
+class="link-block">
+<a
+href="/themed-dining"
+class="more text-uppercase
+link-homepage-to-themed-dining"
+id="link-homepage-to-themed-dining">
+<span>More Details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="private_dining"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/B34I9460.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Private Dining</h4><p>Our resort is famous for seclusion and luxury and we&rsquo;ve created unique dining experiences to match a romantic beachfront date, an In-villa bbq on your honeymoon or an anniversary dinner on our private pier with your own chef for the evening.</p><div
+class="link-block">
+<a
+href="/private-dining"
+class="more text-uppercase
+link-homepage-to-private-dining"
+id="link-homepage-to-private-dining">
+<span>More Details</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="master_classes"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/IC-Samui-Baan-Taling-Ngam-Thai-Cooking-Class.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Master Classes</h4><p>Take a master class in paradise. Experience a Thai cooking class that includes a trip to the local market. Learn to mix cocktails in the best sunset spot on the island. For something unique, try mastering the art of fruit and vegetable carving.</p><div
+class="link-block">
+<a
+href="/master-classes"
+class="more text-uppercase
+link-homepage-to-master-classes"
+id="link-homepage-to-master-classes">
+<span>MORE DETAILS</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="seasonal_celebrations"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/IMG_01012017-000527.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Seasonal Celebrations</h4><p>Bring all the generations of the family together and celebrate special holidays in luxury and style in a tropical playground. Find the perfect villa with amazing ocean views for your festive celebrations. Enjoy special events and decadent buffets perched overlooking the Gulf of Thailand.</p><div
+class="link-block">
+<a
+href="/seasonal-celebration"
+class="more text-uppercase
+link-homepage-to-seasonal-celebration"
+id="link-homepage-to-seasonal-celebration">
+<span>MORE DETAILS</span>
+</a></div></div></div><div
+class="overview-slides-box has_transition_1000_inout hidden"
+data-target-id="picnic_in_style"><div
+class="slides" data-single-slides><div
+class="js-slides"><div
+class="item"><div
+class="figure ratio-overview"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/dining/1045x765/Intercon-%2820-of-20%29.jpg"
+alt=""
+class="as__background"></div></div></div></div></div></div><div
+class="content"><h4 class="title-medium">Picnic In Style</h4><p>Experience luxury and chic picnics for groups and couples. Spend the afternoon lazing and grazing on gourmet picnic treats and tropical fruit platters while sipping sparkling wine between dips in the ocean on a secluded beachfront for the afternoon.</p><div
+class="link-block">
+<a
+href="/picnic-in-style"
+class="more text-uppercase
+link-homepage-to-picnic-in-style"
+id="link-homepage-to-picnic-in-style">
+<span>MORE DETAILS</span>
+</a></div></div></div></div></div></div>
+</section>
+<section
+class="section highlight-section js-parallax"><div
+class="section-title"><h2 class=" text-center text-gold title-medium">RESORT EXPERIENCE</h2></div><div
+class="slides listing-slides highlight-list"><div
+class="items-list js-slides"><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/spa/560x410/IC-Samui-Baan-Taling-Ngam-Tea-Ritual-1.jpg"
+alt=""
+class="as__background"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2 >Spa &amp; Wellness</h2><p>Experience luxurious and relaxing spa treatments inspired by nature in secluded and tropical surroundings at our award-winning spa.</p>
+<a
+href="/spa"
+id="link-homepage-to-spa"
+class="more text-uppercase link-homepage-to-spa">
+<span>More Details</span></a></div></div></div><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/weddings/560x410/Australian-Couple-_-Intercontinental-Koh-Samui-_-Photography-093.jpg"
+alt=""
+class="as__background"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2 >Weddings &amp; Events</h2><p>Design your destination dream wedding; make it truly unforgettable in Asia's Leading Wedding Resort. Bring your vision to life in paradise.</p>
+<a
+href="/weddings-events"
+id="link-homepage-to-weddings-events"
+class="more text-uppercase link-homepage-to-weddings-events">
+<span>More Details</span></a></div></div></div><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/destination/1045x765/_DSC9604.jpg"
+alt=""
+class="as__background"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2 >In the Know</h2><p>Discover unique attractions and gain deeper insights. Get to know the real Samui through our tailored concierge programmes.</p>
+<a
+href="/in-the-know"
+id="link-homepage-to-in-the-know"
+class="more text-uppercase link-homepage-to-in-the-know">
+<span>More Details</span></a></div></div></div></div><div
+class="slides-pagination"></div></div>
+</section>
+<section
+class="section vr-tour-360-section js-parallax"><div
+class="vr-tour-outer"><div
+class="vr-tour-inner"><div
+class="figure ratio-vr-tour"><div
+class="figure-outer"><div
+class="figure-image figure-overlay js-trigger-background">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/home.png" alt="" class="js-imageload"><div
+class="vr-tour-title text-white"><div
+class="icon-360">
+<svg
+version="1.1" id="vr_360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 68.2 65" style="enable-background:new 0 0 68.2 65;" xml:space="preserve"><style type="text/css">.st0{fill:#FFF}</style><g>
+<path
+class="st0" d="M21.7,30.5c-0.6,0-1.1-0.2-1.6-0.7c-0.4-0.4-0.7-1.1-0.8-1.9l-3.1,0.4c0.2,1.5,0.7,2.7,1.7,3.6
+s2.2,1.4,3.8,1.4c1.6,0,2.9-0.5,4-1.6s1.6-2.4,1.6-4c0-1.1-0.3-2-0.9-2.7c-0.6-0.8-1.3-1.2-2.3-1.5c1.6-0.9,2.4-2.2,2.4-3.7
+c0-1.1-0.4-2.1-1.2-2.9c-0.9-1.1-2.2-1.6-3.8-1.6c-0.9,0-1.7,0.2-2.5,0.5c-0.7,0.4-1.3,0.9-1.7,1.5s-0.7,1.5-0.9,2.6l2.9,0.5
+c0.1-0.8,0.3-1.4,0.7-1.8c0.4-0.4,0.9-0.6,1.4-0.6c0.6,0,1,0.2,1.3,0.5s0.5,0.8,0.5,1.4c0,0.7-0.2,1.3-0.7,1.7
+c-0.5,0.4-1.1,0.6-2,0.6l-0.4,2.8c0.6-0.2,1.1-0.3,1.5-0.3c0.6,0,1.1,0.2,1.6,0.7c0.4,0.5,0.6,1.2,0.6,2c0,0.9-0.2,1.6-0.7,2.1
+C22.9,30.3,22.3,30.5,21.7,30.5z"/>
+<path
+class="st0" d="M15.6,7.4c0.2,0,0.4-0.1,0.5-0.2C21.4,3.8,27.7,2,34.1,2c5.4,0,10.7,1.3,15.3,3.7c0.5,0.3,1.1,0.1,1.3-0.4
+c0.3-0.5,0.1-1.1-0.4-1.3C45.4,1.4,39.8,0,34.1,0C27.3,0,20.7,1.9,15,5.6c-0.5,0.3-0.6,0.9-0.3,1.4C14.9,7.2,15.2,7.4,15.6,7.4z"/>
+<path
+class="st0" d="M41.1,40.5c-0.5,0.1-0.9,0.6-0.9,1.1c0.1,0.5,0.5,0.9,1,0.9c0,0,0.1,0,0.1,0c3.9-0.4,23.1-2.8,23.1-8.8
+c0-4.5-7-6-7.3-6.1c-0.5-0.1-1.1,0.2-1.2,0.8c-0.1,0.5,0.2,1.1,0.8,1.2c0.1,0,5.7,1.2,5.7,4.1C62.5,36.5,51.4,39.4,41.1,40.5z"/>
+<path
+class="st0" d="M53.8,8.4c1,0.7,1.9,1.5,2.8,2.3c0.2,0.2,0.4,0.3,0.7,0.3c0.3,0,0.5-0.1,0.7-0.3c0.4-0.4,0.4-1-0.1-1.4
+C57,8.3,56,7.5,55,6.8c-0.3-0.2-0.6-0.5-1-0.7c-0.5-0.3-1.1-0.2-1.4,0.3c-0.3,0.5-0.2,1.1,0.3,1.4C53.2,7.9,53.5,8.1,53.8,8.4z"/>
+<path
+class="st0" d="M37.5,42.3c0.2-0.3,0.3-0.6,0.3-0.9c0-0.3-0.2-0.6-0.4-0.9L33,36.8c-0.5-0.4-1.3-0.4-1.8,0.1
+c-0.4,0.5-0.4,1.3,0.1,1.8l2.1,1.8C13.6,40.3,5,36,5,33.8c0-2.2,4.5-4.4,7.3-5.3c0.5-0.2,0.8-0.7,0.7-1.3c-0.2-0.5-0.7-0.8-1.3-0.7
+C10.8,26.8,3,29.4,3,33.8c0,5,13,8.6,31.1,8.7L31.9,45c-0.5,0.5-0.4,1.3,0.1,1.8c0.2,0.2,0.5,0.3,0.8,0.3c0.4,0,0.7-0.1,0.9-0.4
+L37.5,42.3z"/>
+<path
+class="st0" d="M60.2,11.5c-0.4-0.4-1-0.4-1.4-0.1c-0.4,0.4-0.4,1-0.1,1.4c4.9,5.5,7.6,12.5,7.6,19.7
+c0,14.3-10.7,26.9-25.4,29.8c-0.5,0.1-0.9,0.6-0.8,1.2c0.1,0.5,0.5,0.8,1,0.8c0.1,0,0.1,0,0.2,0c15.7-3.1,27-16.5,27-31.8
+C68.2,24.8,65.4,17.4,60.2,11.5z"/>
+<path
+class="st0" d="M2,32.5c0-9,4.2-17.6,11.5-23.4c0.4-0.3,0.5-1,0.2-1.4c-0.3-0.4-1-0.5-1.4-0.2C4.5,13.8,0,22.8,0,32.5
+c0,9.3,4.2,18.1,11.5,24.3c0.2,0.2,0.4,0.2,0.6,0.2c0.3,0,0.6-0.1,0.8-0.4c0.4-0.4,0.3-1.1-0.1-1.4C5.9,49.5,2,41.2,2,32.5z"/>
+<path
+class="st0" d="M31.4,62.9c-1.8-0.1-3.5-0.4-5.2-0.8c-3.9-0.9-7.5-2.5-10.8-4.8c-0.5-0.3-1.1-0.2-1.4,0.3
+c-0.3,0.5-0.2,1.1,0.3,1.4c3.5,2.4,7.3,4.1,11.4,5.1c1.8,0.4,3.7,0.7,5.5,0.9c0,0,0.1,0,0.1,0c0.5,0,1-0.4,1-0.9
+C32.4,63.4,31.9,62.9,31.4,62.9z"/>
+<path
+class="st0" d="M37.2,62.9c-1,0.1-2,0.1-3,0.1c-0.6,0-1,0.4-1,1s0.4,1,1,1c1.1,0,2.1,0,3.2-0.1c0.5,0,1-0.5,0.9-1.1
+C38.2,63.2,37.7,62.8,37.2,62.9z"/>
+<path
+class="st0" d="M38.7,23.2c-1-1.1-2.1-1.6-3.4-1.6c-1.2,0-2.2,0.5-3,1.5c0.1-2,0.4-3.4,0.9-4c0.5-0.6,1-1,1.7-1
+c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.5,0.8,0.6,1.5l3.1-0.4c-0.2-1.4-0.8-2.5-1.6-3.3c-0.8-0.8-1.9-1.1-3.1-1.1
+c-1.8,0-3.3,0.7-4.4,2.1c-1.1,1.4-1.7,3.8-1.7,7c0,3.2,0.5,5.4,1.6,6.8c1.1,1.4,2.5,2.1,4.1,2.1c1.6,0,2.9-0.5,3.9-1.6
+c1-1.1,1.5-2.5,1.5-4.4C40.2,25.6,39.7,24.2,38.7,23.2z M36.4,29.8c-0.4,0.5-0.9,0.7-1.5,0.7c-0.6,0-1.2-0.3-1.6-0.9
+c-0.5-0.6-0.7-1.5-0.7-2.6c0-1,0.2-1.8,0.6-2.3c0.4-0.5,0.9-0.8,1.6-0.8c0.6,0,1.2,0.3,1.6,0.8s0.6,1.4,0.6,2.5
+C37,28.5,36.8,29.3,36.4,29.8z"/>
+<path
+class="st0" d="M47.1,15.3c-1.6,0-2.9,0.6-3.8,1.8c-1.1,1.5-1.6,3.9-1.6,7.2c0,3.4,0.5,5.8,1.5,7.1c1,1.3,2.3,2,3.9,2
+c1.6,0,2.9-0.6,3.8-1.8c1.1-1.5,1.6-3.9,1.6-7.2c0-3.4-0.5-5.8-1.6-7.2C50,15.9,48.7,15.3,47.1,15.3z M48.9,28.7
+c-0.2,0.7-0.4,1.1-0.7,1.4c-0.3,0.3-0.6,0.4-1,0.4c-0.4,0-0.7-0.1-1-0.4c-0.3-0.3-0.5-0.8-0.7-1.6c-0.2-0.8-0.3-2.2-0.3-4.3
+s0.1-3.6,0.3-4.4c0.2-0.7,0.4-1.1,0.7-1.4c0.3-0.3,0.6-0.4,1-0.4c0.4,0,0.7,0.1,1,0.4c0.3,0.3,0.5,0.8,0.7,1.6s0.3,2.2,0.3,4.3
+S49.1,27.9,48.9,28.7z"/>
+</g>
+</svg></div><h2 class="text-center">Explore Beachside Luxury</h2></div></div>
+<iframe
+data-src="https://www.eyenavthailand.com/ic_samui/aerial.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div></div>
+</section>
+<section
+class="section thumbnail-tabs-section"><div
+class="section-title"><h2 class="text-center text-gold title-medium">OFFERS</h2></div><div
+class="thumbnail-tabs js-tab"><div
+class="thumbnail-title"><div
+class="highlight-list"><div
+class="items-list" data-type="listing"><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/Intercon-%2818-of-20%29.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Dining</h2><p>Discover dinning offers in breathtaking locations.</p>
+<a
+href="#"
+data-tab-id="dining"
+class="more text-uppercase"><span>More Details</span></a></div></div></div><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IMG_0801.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Accommodation</h2><p>Get additional benefits when you book.</p>
+<a
+href="#"
+data-tab-id="accommodation"
+class="more text-uppercase"><span>More Details</span></a></div></div></div><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/B34I9460.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Experiences</h2><p>An Experience offer for every occasion.</p>
+<a
+href="#"
+data-tab-id="experiences"
+class="more text-uppercase"><span>More Details</span></a></div></div></div></div></div></div><div
+class="thumbnail-content" id="special_offers"><div
+class="inner-item"><div
+class="btn-close is-desktop">Close X</div><div
+class="section-title"><h3 class="text-center title-small">Dining offers</h3></div><div
+class="highlight-list"><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/Intercon-%2818-of-20%29.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Dining</h2><p>Discover dinning offers in breathtaking locations.</p>
+<a
+href="#" data-tab-id="dining"
+class="more text-uppercase"><span>More Details</span></a></div></div></div></div><div
+class="thumbnail" data-type="listing"
+data-target-id="dining"><div
+class="btn-close is-mobile">Close X</div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/listing-page.jpg"
+alt="uploads/samui/offers/560x410/listing-page.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Half Board</h2><div
+class="content"><p>Enjoy a crafted dining experience, from authentic Asian delights to char grilled succuent seafood and finest cuts of meat or a light casual meal poolside.</p></div><div
+class="link-block text-center">
+<a
+href="/half-board"
+class="more text-uppercase link-homepage-to-half-board"
+id="link-homepage-to-half-board"><span>More Details</span></a></div></div></div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/Fill-board-image-listing.jpg"
+alt="uploads/samui/offers/560x410/Fill-board-image-listing.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Full Board</h2><div
+class="content"><p>Savour delicious meals and sleep well in a comfortable room. Take advantage of our Award Winning Spa, and return to daily life refreshed and rested.</p></div><div
+class="link-block text-center">
+<a
+href="/full-board"
+class="more text-uppercase link-homepage-to-full-board"
+id="link-homepage-to-full-board"><span>More Details</span></a></div></div></div><div
+class="btn-close is-mobile bottom">Close X</div></div></div><div
+class="inner-item"><div
+class="btn-close is-desktop">Close X</div><div
+class="section-title"><h3 class="text-center title-small">Accommodation</h3></div><div
+class="highlight-list"><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IMG_0801.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Accommodation</h2><p>Get additional benefits when you book.</p>
+<a
+href="#" data-tab-id="accommodation"
+class="more text-uppercase"><span>More Details</span></a></div></div></div></div><div
+class="thumbnail" data-type="listing"
+data-target-id="accommodation"><div
+class="btn-close is-mobile">Close X</div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Butler-Service-1.jpg"
+alt="uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Butler-Service-1.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Stay Two Nights and the Third is On Us</h2><div
+class="content"><p>Book your next summer holiday and enjoy the third night on us</p></div><div
+class="link-block text-center">
+<a
+href="/stay-two-nights-and-the-third-is-on-us"
+class="more text-uppercase link-homepage-to-stay-two-nights-and-the-third-is-on-us"
+id="link-homepage-to-stay-two-nights-and-the-third-is-on-us"><span>More Details</span></a></div></div></div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IMG_1303.jpg"
+alt="uploads/samui/offers/560x410/IMG_1303.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Advance Purchase</h2><div
+class="content"><p>ADVANCE PURCHASE OFFER. Enjoy our best rates when you book direct with us on YOUR RATE. You also enjoy our most exclusive member benefits.</p></div><div
+class="link-block text-center">
+<a
+href="/advance-purchase"
+class="more text-uppercase link-homepage-to-advance-purchase"
+id="link-homepage-to-advance-purchase"><span>More Details</span></a></div></div></div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Premier-Ocean-View-Rooms-2.jpg"
+alt="uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Premier-Ocean-View-Rooms-2.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Stay Longer</h2><div
+class="content"><p>Stay Longer. Immerse yourself in luxury and take a break from the world with InterContinental Samui Baan Taling Ngam's limited time offer.</p></div><div
+class="link-block text-center">
+<a
+href="/stay-longer"
+class="more text-uppercase link-homepage-to-stay-longer"
+id="link-homepage-to-stay-longer"><span>More Details</span></a></div></div></div><div
+class="btn-close is-mobile bottom">Close X</div></div></div><div
+class="inner-item"><div
+class="btn-close is-desktop">Close X</div><div
+class="section-title"><h3 class="text-center title-small">Experiences offers</h3></div><div
+class="highlight-list"><div
+class="item"><div
+class="figure ratio-highlight"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/B34I9460.jpg"
+alt="" class="js-imageload"></div></div></div><div
+class="highlight-content"><div
+class="content"><h2>Experiences</h2><p>An Experience offer for every occasion.</p>
+<a
+href="#" data-tab-id="experiences"
+class="more text-uppercase"><span>More Details</span></a></div></div></div></div><div
+class="thumbnail" data-type="listing"
+data-target-id="experiences"><div
+class="btn-close is-mobile">Close X</div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/_DSC9358.jpg"
+alt="uploads/samui/offers/560x410/_DSC9358.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Romantic Escape</h2><div
+class="content"><p>Romantic Escape. Spa, wine and romantic candle light dinner with luxurious accommodation of your choice plus drink &amp; dine credit</p></div><div
+class="link-block text-center">
+<a
+href="/romantic-escape"
+class="more text-uppercase link-homepage-to-romantic-escape"
+id="link-homepage-to-romantic-escape"><span>More Details</span></a></div></div></div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Hotel-Exterior-11.jpg"
+alt="uploads/samui/offers/560x410/IC-Samui-Baan-Taling-Ngam-Hotel-Exterior-11.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Family Pleasure</h2><div
+class="content"><p>Look forward to a great family vacation filled with sun, fun and activities for the whole family.</p></div><div
+class="link-block text-center">
+<a
+href="/family-pleasure"
+class="more text-uppercase link-homepage-to-family-pleasure"
+id="link-homepage-to-family-pleasure"><span>More details</span></a></div></div></div><div
+class="thumbnail-item item"><div
+class="figure ratio-thumbnail"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/offers/560x410/DSC00206.jpg"
+alt="uploads/samui/offers/560x410/DSC00206.jpg"
+class="js-imageload"></div></div></div><div
+class="thumbnail-content"><h2 class="text-center">Package with Flights</h2><div
+class="content"><p>Travel the world better. Build your Koh Samui Islands holiday your way with. Bundle flights, accommodation and meals together to plan your dream holiday.</p></div><div
+class="link-block text-center">
+<a
+href="/package-with-flights"
+class="more text-uppercase link-homepage-to-package-with-flights"
+id="link-homepage-to-package-with-flights"><span>More Details</span></a></div></div></div><div
+class="btn-close is-mobile bottom">Close X</div></div></div></div></div>
+</section>
+<section
+class="section awards-section js-parallax" data-theme="is-cream"><div
+class="slides js-slides"><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/thailands-leading-beach-resort-2018-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/asias-most-romantic-resort-2018-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/thailands-leading-beach-resort-2018-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/asias-leading-beach-resort-2017-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/asias-most-romantic-resort-2017-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/thailands-leading-beach-resort-2017-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/awards2/thailands-leading-resort-2017-winner-shield-256.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/award3/2018-Spa-Awards-Winner-Logo-%28Black-Text%29_bold_new.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/award3/finale2016-300x297-1_bold_new.png"
+alt="" class="as__background"></div></div></div></div><div
+class="item"><div
+class="figure ratio-award"><div
+class="figure-outer"><div
+class="figure-image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/award3/2018-Hotel-Awards-Winner_300x297.png"
+alt="" class="as__background"></div></div></div></div></div><div
+class="slides-pagination"></div>
+</section>
+<section
+class="section instagram-section js-parallax"><h2 class="text-gold text-center">Share your moments #InterContinentalSamui</h2><div
+class="quote"><h3>Follow us on Instagram @intercontinentalsamui</h3></div><div
+class="instagram-feed" data-instagram="539441353.1677ed0.22d7be29ab324ae18d3631170e009ce5"></div>
+</section>
+</main>
+<footer
+class="site-footer" role="contentinfo"><div
+class="footer-layout"><div
+class="section newsletter-section"><div
+class="image">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/newsletter-bg.jpg"
+alt="" class="js-imageload as__background"><div
+class="layout-fixed newsletter-layout"><div
+class="va-outer"><div
+class="va-inner"><div
+class="newsletter-items"><div
+class="newsletter-item item-left"><h5 class="sub-heading">Put Yourself In the Know</h5><h4 class="heading text-uppercase">Newsletter</h4></div><div
+class="newsletter-item item-right"><div
+class="newsletter"><form
+id="newsletter_form"
+class="validate"
+data-success="success_messagenewsletter_form"
+data-action_url="action_urlnewsletter_form"
+method="POST"
+autocomplete="off" novalidate>
+<input
+id="action_urlnewsletter_form" value="http://quiq-cms.staging.quo-digital.com/api/helpers/site/samui/form/newsletter_form/en" type="hidden">
+<input
+type='text' name='_honey_pot' value='' style='display:none;'/>
+<input
+type='hidden' name='_cms_form_token' value='YofihgsHXIObx9Nvz0smAA1plgYcozN1mMUwqjOe'/>
+<input
+type='hidden' name='_cms_application_name' value='samui'/><div
+class="form-group input-group"><div
+class="form-input form-container animate-form">
+<label
+for="newsletter_email">enter your email here</label>
+<input
+required
+type="email"
+name="Email"
+id="tEmailnewsletter_form"
+placeholder=""
+pattern="^[0-9a-zA-Z]+([0-9a-zA-Z]*[-._+])*[0-9a-zA-Z]+@[0-9a-zA-Z]+([-.][0-9a-zA-Z]+)*([0-9a-zA-Z]*[.])[a-zA-Z]{2,6}$"
+class="form-control"></div>
+<button
+type="submit"
+id="sumbitForm"
+data-process='Loading...'
+data-btformsuccess='newlester_form_success'
+onclick="submitForm('newsletter_form',event,this.id,true)"
+name="button"
+class="btn btn-newsletter"
+>
+submit
+</button></div></form>
+<label
+id="lEmailnewsletter_form" class="ui-hidden has-error-form">
+Please input Email
+</label>
+<label
+id="thanknewsletter_form" class="ui-hidden  "><p>Thank you.</p>
+</label></div><div
+class="social"><ul><li>
+<a
+href="https://www.facebook.com/IntercontinentalSamui"
+title="Facebook"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-facebook"></i></a></li><li>
+<a
+href="https://twitter.com/InterConSamui"
+title="Twitter"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-twitter"></i></a></li><li>
+<a
+href="https://instagram.com/intercontinentalsamui"
+title="Instagram"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-instagram"></i></a></li><li>
+<a
+href="https://youtube.com/ICsamui"
+title="Youtube"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-youtube"></i></a></li><li>
+<a
+href="https://www.linkedin.com/company/intercontinental-samui-baan-taling-ngam-resort"
+title="Linkedin"
+target=_blank
+rel="noopener noreferrer">
+<i
+class="icon-linkedin"></i></a></li><li>
+<a
+href="https://bit.ly/2wRZOJB"
+title="Pinterest"
+target=_self
+rel="noopener noreferrer">
+<i
+class="icon-pinterest"></i></a></li></ul></div></div></div></div></div></div></div></div><div
+class="section address-bar-section"><div
+class="layout-fixed"><div
+class="footer-content"><div
+class="layout-box"><div
+class="heading"><span
+class="icon icon-mail"></span>  Reservations Email:</div><div
+class="pl-27"><p><a
+title="" href="mailto:icsamui.rsvn@ihg.com">icsamui.rsvn@ihg.com</a></p></a></div></div><div
+class="layout-box"><div
+class="heading"><span
+class="icon icon-phone"></span>  Reservation Phone Number:</div><div
+class="pl-27"><p><a
+title="" href="tel:+6677-429-100">+66 (7) 74 29 100 (Thailand)</a></p><p><a
+title="" href="tel:+1800-656-888">+1 (800) 656 888 (Toll free US)</a></p></a></div></div><div
+class="layout-box"><div
+class="heading"><span
+class="icon icon-location2"></span>  Hotel Address:</div><div
+class="pl-27"><p>295 Moo 3 Taling Ngam,</p><p>Koh Samui, Surat Thani 84140 Thailand</p></a></div></div></div></div></div><div
+class="section footer-bottom-section js-parallax"><div
+class="layout-fixed"><div
+class="footer-content"><ul
+class="footer-menu"><li><a
+href="https://www.ihg.com/intercontinental/hotels/gb/en/koh-samui/usmks/hoteldetail/hotel-reviews"
+target=_self>
+Reviews</a></li><li><a
+href="https://www.ihg.com/hotels/gb/en/customer-care/"
+target=_blank>
+Customer care</a></li><li><a
+href="/sitemap"
+target=_self>
+Sitemap</a></li><li><a
+href="https://www.ihg.com/content/gb/en/customer-care/privacy_statement"
+target=_blank>
+Privacy Policy</a></li></ul><div
+class="booking-description">
+<span
+class="text"></span></div><div
+class="box-img">
+<a
+href="https://www.ihg.com/intercontinental/content/gb/en/ambassador"
+target=_blank>
+<img
+alt=""
+src="http://samui.staging.quo-digital.com/uploads/samui/Logo.png">
+</a></div></div><div
+class="brand-bar-section"><div
+class="brand-bar-outer"><div
+class="brand-bar-inner"><div
+class="ihg-brand">
+<a
+href="https://www.ihg.com/hotels/gb/en/reservation"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/ihg_main_gray_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/ihg_main_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-col"><div
+class="items"><div
+class="brand-item" data-hotel="intercontinental">
+<a
+href="https://www.ihg.com/intercontinental/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/intercontinental_gray_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/intercontinental_1.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="kinpton">
+<a
+href="https://www.kimptonhotels.com/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/kimpton_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/kimpton.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="hualuxe">
+<a
+href="https://www.ihg.com/hualuxe/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/hualuxe_gray_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/hualuxe_1.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="holiday_inn">
+<a
+href="https://www.ihg.com/holidayinn/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="holiday_inn_express">
+<a
+href="https://www.ihg.com/holidayinnexpress/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn_express_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn_express.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="avid">
+<a
+href="https://www.avidhotels.com/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/avid_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/avid.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="hotel_indigo">
+<a
+href="https://www.ihg.com/hotelindigo/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/hotel_indigo_gray_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/hotel_indigo_1.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="even_hotels">
+<a
+href="https://www.ihg.com/evenhotels/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/even_hotels_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/even_hotels.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="crowne_plaza">
+<a
+href="https://www.ihg.com/crowneplaza/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/crowne_plaza_gray_1.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/crowne_plaza_1.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="holiday_inn_club_vacations">
+<a
+href="https://www.ihg.com/holidayinnclubvacations/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn_club_vacations_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/holiday_inn_club_vacations.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="staybridge">
+<a
+href="https://www.ihg.com/staybridge/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/staybridge_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/staybridge.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="candlewood_suites">
+<a
+href="https://www.ihg.com/candlewood/"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/candlewood_suites_gray.png"
+alt=""
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/candlewood_suites.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="voco">
+<a
+href="https://www.ihg.com/voco/hotels/gb/en/reservation"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/voco_gray.png"
+alt="voco"
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/voco.png"
+alt="voco" class="js-imageload as__background">
+</span>
+</a></div><div
+class="brand-item" data-hotel="regent">
+<a
+href="https://www.ihg.com/regent/hotels/gb/en/reservation"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/regent_gray.png"
+alt="Regent"
+class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/regent.png"
+alt="Regent" class="js-imageload as__background">
+</span>
+</a></div></div></div><div
+class="rewards-col"><div
+class="items">
+<a
+href="https://www.ihg.com/rewardsclub/content/gb/en/home"
+target=_blank
+class="ihg-bb">
+<span
+class="ihg-bb-item ihg-bb-active">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/ihg_rewards_club_gray_1.png"
+alt="" class="js-imageload as__background">
+</span>
+<span
+class="ihg-bb-item ihg-bb-hover">
+<img
+data-src="http://samui.staging.quo-digital.com/uploads/samui/ihg_brand/ihg_rewards_club_1.png"
+alt="" class="js-imageload as__background">
+</span>
+</a></div></div></div></div></div></div></div><div
+class="copyright-section js-parallax"><div
+class="layout-fixed">
+This hotel independently owned and operated by Serenity Asset Co.,Ltd. © 2019 Quo Bangkok Co., Ltd. ALL RIGHTS RESERVED</div></div></div>
+</footer> <script src="http://samui.staging.quo-digital.com/templates/samui/js/app.bundle.js" defer></script> <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js" crossorigin="anonymous"></script> </div></div></div><div
+class="loader"><div
+class="bg"></div>
+<img
+src="http://samui.staging.quo-digital.com/uploads/samui/brand-logo.png"
+alt="InterContinental Samui" class="brand-logo"></div> <script>var GOOGLE_MAP_KEY='AIzaSyBHrew5pvl__BhBJfStmR6uOsmUp0rnNuk';</script> 
+<noscript><iframe
+src="https://www.googletagmanager.com/ns.html?id=GTM-N3FSZ65"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <script type="text/javascript" async defer>function add_chatinline(){var hccid=28320232;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline();</script> <script>function submitForm(form_id,event,btID,mailchimp){event.preventDefault();var $inputs=$('#'+form_id+' :input');var valuesRequired={};var valuesIdMailchimp={};var valueType={};var idRequired="";var check_text=true;var textButtom=$("#"+btID).text();var redilectForm=$("#"+btID).attr("data-btformsuccess");$("#"+btID).text($("#"+btID).attr("data-process"));$("#"+btID).prop('disabled',true);$inputs.each(function(){valuesRequired[this.id]=$(this).attr('required');idRequired=this.id.substring(1,this.id.length);valueType[this.id]=$("#t"+idRequired).attr('type');if(valuesRequired[this.id]=='required'){if(valueType[this.id]=="email"){var email=document.getElementById("t"+idRequired);var filter=/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;if(!filter.test(email.value)){$("#l"+idRequired).removeClass("ui-hidden");check_text=false;}else{$("#l"+idRequired).addClass("ui-hidden");}}else if(valueType[this.id]=="text"||valueType[this.id]=="number"||valueType[this.id]=="textarea"||valueType[this.id]=="date"||valueType[this.id]=="uploadfile"||valueType[this.id]=="select"){if($("#t"+idRequired).val()==""){$("#l"+idRequired).removeClass("ui-hidden");check_text=false;}else{$("#l"+idRequired).addClass("ui-hidden");}}}});if($('#'+form_id+' #g-recaptcha-response').val()==""){check_text==false;$("#"+form_id+' #warning_recapcha').removeClass("ui-hidden");}else{$("#"+form_id+' #warning_recapcha').addClass("ui-hidden");}
+if(check_text==true){var form_data=new FormData($("#"+form_id)[0]);$.ajax({url:$("#"+$("#"+form_id).data("action_url")).val(),type:$("#"+form_id).attr('method'),data:form_data,processData:false,contentType:false,success:function(data){$("#"+form_id)[0].reset();$("#thank"+form_id).removeClass("ui-hidden");$("#thank"+form_id).addClass("ui-success");$("#thank"+form_id).css({"color":"green"});$("#"+btID).prop('disabled',false);$("#"+btID).text(textButtom);$("#form_success").click();},error:function(data){}});}else{$("#"+btID).prop('disabled',false);$("#"+btID).text(textButtom);$("#thank"+form_id).addClass("ui-hidden");$("#thank"+form_id).removeClass("ui-success");}}</script> </body></html>
